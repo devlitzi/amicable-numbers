@@ -1,3 +1,5 @@
+;;;PPL Lab 2
+;;Zach Litzinger & Jake Mitchel
 (require '[clojure.core.reducers :as r])
 
 (defn add-factors [n]
